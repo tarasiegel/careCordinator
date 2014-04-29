@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TestCode/bin/dexedLibs/robotium-solo-4.3.1-javadoc-95fcf5f03ccba30b4fe025fcb125727b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TestCode/bin/dexedLibs/robotium-solo-4.3.1-05fcd46c3f8c90a7d8c2f51d80954b75.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TestCode/bin/dexedLibs/robotium-solo-4.3.1-e1d77df7bfd036245689b16ba3b7f525.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

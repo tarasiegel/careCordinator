@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="name" value="app: cis573.carecoor" />
+        <option name="packageNamePattern" value="cis573.carecoor" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/pin_lock_activity.xml">
+        <config>
+          <device>Nexus 7 2013</device>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: cis573.carecoor" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60949493-7bf0-488f-afa0-1d3a9826f8f6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCode/bin/classes/cis573/carecoor/test/MedTest.class" afterPath="$PROJECT_DIR$/TestCode/bin/classes/cis573/carecoor/test/MedTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCode/bin/TestCareCoor.apk" afterPath="$PROJECT_DIR$/TestCode/bin/TestCareCoor.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCode/bin/classes.dex" afterPath="$PROJECT_DIR$/TestCode/bin/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCode/bin/resources.ap_" afterPath="$PROJECT_DIR$/TestCode/bin/resources.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCode/gen/cis573/carecoor/test/BuildConfig.java" afterPath="$PROJECT_DIR$/TestCode/gen/cis573/carecoor/test/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCode/src/cis573/carecoor/test/MedTest.java" afterPath="$PROJECT_DIR$/TestCode/src/cis573/carecoor/test/MedTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCode/project.properties" afterPath="$PROJECT_DIR$/TestCode/project.properties" />
+    </list>
+    <ignored path="CareCoordinatorGroup_SourceCode.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CareCoordinatorGroup_SourceCode" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pin_lock_activity.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/pin_lock_activity.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="12" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.33247423" vertical-offset="321" max-vertical-offset="2235">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appointment_fragment.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/appointment_fragment.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="49" selection-start="570" selection-end="570" vertical-scroll-proportion="-7.7777777" vertical-offset="0" max-vertical-offset="765">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TestCode" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/set_schedule_activity.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/ExtendedCalendar/Day.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/ExtendedCalendar/Event.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/color/date_number_text_color.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/drawable/date_number_background.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/drawable/day_selected.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/drawable/normal_day.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/drawable/today.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/day_of_week.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/day_view.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-land/dimen.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-sw600dp-land/dimen.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-sw600dp/dimen.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-sw720dp-land/dimen.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-sw720dp/dimen.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-v11/styles.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-v14/styles.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/ExtendedCalendar/CalendarAdapter.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/ExtendedCalendar/CalendarProvider.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/bean/Appointment.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/reminder/ReminderCenter.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/NewAppointmentActivity.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/data/DataCenter.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/new_appointment_activity.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/gen/cis573/carecoor/R.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/ExtendedCalendar/ExtendedCalendarView.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/AppointmentFragment.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/BannerActivity.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/PinLockActivity.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/appointment_fragment.xml" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/MainActivity.java" />
+        <option value="$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/pin_lock_activity.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1260" />
+    <option name="height" value="717" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CareCoordinatorGroup_SourceCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Default">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.101:5555" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="MyAvd0" />
+  </component>
+  <component name="RunManager" selected="Android Application.CareCoordinator">
+    <configuration default="false" name="All Tests" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
+      <module name="CareCoordinator" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CareCoordinator" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="CareCoordinator" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.CareCoordinator" />
+      <item index="1" class="java.lang.String" itemvalue="Android Tests.All Tests" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Android Tests.All Tests" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60949493-7bf0-488f-afa0-1d3a9826f8f6" name="Default" comment="" />
+      <created>1396310284993</created>
+      <updated>1396310284993</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1260" height="717" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936507" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279743" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26688102" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23571429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279743" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/banner_activity.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735" />
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/pick_from_contacts_activity.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/set_schedule_activity.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3075" />
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/games_fragment.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135" />
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/ic_launcher-web.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/proguard-project.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/CareCoordinator.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/SetScheduleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="4" selection-start="2014" selection-end="2014" vertical-scroll-proportion="1.1157025" vertical-offset="0" max-vertical-offset="4320" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/GameFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="40" selection-start="1097" selection-end="1097" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1920">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/drawable-hdpi/drugpic_lip.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/drawable/date_number_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/drawable/today.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="8" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/drawable/normal_day.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="8" selection-start="172" selection-end="172" vertical-scroll-proportion="0.15957446" vertical-offset="0" max-vertical-offset="376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/color/date_number_text_color.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="419" selection-end="419" vertical-scroll-proportion="0.26992288" vertical-offset="0" max-vertical-offset="389" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/drawable/day_selected.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="8" selection-start="173" selection-end="173" vertical-scroll-proportion="0.15957446" vertical-offset="0" max-vertical-offset="376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/day_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="22" selection-start="136" selection-end="136" vertical-scroll-proportion="-0.0" vertical-offset="30" max-vertical-offset="1425" />
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-land/dimen.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="12" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-sw600dp-land/dimen.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-sw600dp/dimen.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="0.5012854" vertical-offset="0" max-vertical-offset="389">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-sw720dp-land/dimen.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="249" selection-end="249" vertical-scroll-proportion="0.23136246" vertical-offset="0" max-vertical-offset="389">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-sw720dp/dimen.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="247" selection-end="247" vertical-scroll-proportion="0.23136246" vertical-offset="0" max-vertical-offset="389">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-v11/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="12" selection-start="323" selection-end="323" vertical-scroll-proportion="0.3856041" vertical-offset="0" max-vertical-offset="389">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/values-v14/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="12" selection-start="380" selection-end="380" vertical-scroll-proportion="0.42416453" vertical-offset="0" max-vertical-offset="389">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/SourceCode/CareCoordinator/libs/android-support-v4.jar!/android/support/v4/app/Fragment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="266" column="0" selection-start="10962" selection-end="10962" vertical-scroll-proportion="-11.44" vertical-offset="3689" max-vertical-offset="4065" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/appointment_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690" />
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/day_of_week.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="349" />
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/ExtendedCalendar/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/gen/cis573/carecoor/Manifest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/gen/cis573/carecoor/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/ExtendedCalendar/CalendarAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="31" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.46" vertical-offset="364" max-vertical-offset="3780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/ExtendedCalendar/CalendarProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="39" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="2835">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/ExtendedCalendar/Day.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="2265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/bean/Appointment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="60" selection-start="907" selection-end="907" vertical-scroll-proportion="0.9462617" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/data/DataCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="176" column="73" selection-start="5612" selection-end="5612" vertical-scroll-proportion="-0.3317757" vertical-offset="2482" max-vertical-offset="2910" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/values/refs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="389">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/reminder/ReminderCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="56" selection-start="3357" selection-end="3357" vertical-scroll-proportion="-0.4906542" vertical-offset="1515" max-vertical-offset="1965" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="38" selection-start="9469" selection-end="9469" vertical-scroll-proportion="0.0" vertical-offset="2196" max-vertical-offset="2835">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/new_appointment_activity.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="35" selection-start="652" selection-end="694" vertical-scroll-proportion="0.52369076" vertical-offset="45" max-vertical-offset="2205">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/ExtendedCalendar/ExtendedCalendarView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="150" column="4" selection-start="5387" selection-end="5387" vertical-scroll-proportion="0.0" vertical-offset="1837" max-vertical-offset="5295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="29" selection-start="3153" selection-end="3153" vertical-scroll-proportion="0.0" vertical-offset="757" max-vertical-offset="1560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/AppointmentFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="8" selection-start="1772" selection-end="1850" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/NewAppointmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="23" selection-start="1600" selection-end="1600" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/BannerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2565">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/gen/cis573/carecoor/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="416" column="48" selection-start="22419" selection-end="22425" vertical-scroll-proportion="-0.18072289" vertical-offset="6240" max-vertical-offset="16050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/PinLockActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1875">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/src/cis573/carecoor/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="8" selection-start="959" selection-end="959" vertical-scroll-proportion="0.66588783" vertical-offset="30" max-vertical-offset="1680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/appointment_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="49" selection-start="570" selection-end="570" vertical-scroll-proportion="-7.7777777" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/CareCoordinator/res/layout/pin_lock_activity.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="12" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.33247423" vertical-offset="321" max-vertical-offset="2235">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+  </component>
+</project>
+

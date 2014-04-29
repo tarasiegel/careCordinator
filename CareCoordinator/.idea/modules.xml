@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/CareCoordinator/CareCoordinator.iml" filepath="$PROJECT_DIR$/SourceCode/CareCoordinator/CareCoordinator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCode/TestCode.iml" filepath="$PROJECT_DIR$/TestCode/TestCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/gridlayout_v7/gridlayout_v7.iml" filepath="$PROJECT_DIR$/SourceCode/gridlayout_v7/gridlayout_v7.iml" />
+    </modules>
+  </component>
+</project>
+
